@@ -7,6 +7,4 @@
 - Python Variables
 - Variable Naming
 ## Band Name Generator
-![day01](https://user-images.githubusercontent.com/98851253/154177081-2c53df2d-777b-4deb-8e38-5742ecd7282f.gif)
-
-
+![Day 1](https://github.com/user-attachments/assets/4e2149ab-d60f-405b-b996-8649235d8259)
