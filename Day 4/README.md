@@ -4,5 +4,4 @@
 - Understanding the Offset and Appending Items to Lists
 - Index Errors and Working with Nested Lists
 ## Rock Paper Scissors
-![day04](https://user-images.githubusercontent.com/98851253/154310127-00f4adf7-fac0-40c0-a374-a49ac22292d4.gif)
-
+![Day 4](https://github.com/user-attachments/assets/94139a64-183d-4b8b-9a73-127c2fffb5fd)
