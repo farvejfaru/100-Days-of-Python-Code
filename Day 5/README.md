@@ -3,6 +3,7 @@
 - Using the for loop with Python Lists
 - For loops and the range() function
 ## Password Generator
-![day05](https://user-images.githubusercontent.com/98851253/154311198-83cc6a60-6a57-4e21-bb01-6b54593def0e.gif)
+![Day 5](https://github.com/user-attachments/assets/7e33ba8b-8305-4872-9457-09ae8317bd69)
+
 
 
