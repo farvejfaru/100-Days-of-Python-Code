@@ -13,6 +13,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 4:](https://github.com/farvejfaru/100-Days-of-Python-Code/tree/main/Day%204) Randomisation and Python Lists
 - [Day 5:](https://github.com/farvejfaru/100-Days-of-Python-Code/tree/main/Day%205) Python Loops
 - [Day 6:](https://github.com/farvejfaru/100-Days-of-Python-Code/tree/main/Day%206) Python Functions & Karel
+- [Day 7:](https://github.com/farvejfaru/100-Days-of-Python-Code/tree/main/Day%206) Hangman
 
 
 
