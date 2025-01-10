@@ -5,4 +5,5 @@
 - Improving the User Experience
 -  How to Add ASCII Art and Improve the UI
 ## Hangman
+![Day 7](https://github.com/user-attachments/assets/56c89a7c-2ff9-4c94-8724-9310df4e12f8)
 
