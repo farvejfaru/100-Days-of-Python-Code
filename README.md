@@ -18,6 +18,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 9:](https://github.com/farvejfaru/100-Days-of-Python-Code/tree/main/Day%209) Dictionaries, Nesting and the Auction
 - [Day 10:](https://github.com/farvejfaru/100-Days-of-Python-Code/tree/main/Day%2010) Functions with Outputs
 - [Day 11:](https://github.com/farvejfaru/100-Days-of-Python-Code/tree/main/Day%2011) The Blackjack Capstone Project
+- [Day 12:](https://github.com/farvejfaru/100-Days-of-Python-Code/tree/main/Day%2012) Scope & Number Guessing Game
 
 
 
