@@ -3,4 +3,5 @@
 - The Python Dictionary
 - Nesting Lists and Dictionaries
 ## The Auction Program
-![Day 9](https://github.com/user-attachments/assets/b52c5300-2d09-452f-8b57-75c7487b144e)
+![Day 9](https://github.com/user-attachments/assets/f8f4b931-ca97-499a-b363-1536737e25a0)
+
